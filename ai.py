@@ -8,7 +8,7 @@ import traceback
 import matplotlib.pyplot as plt
 import json
 
-openai.api_key = "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"
+openai.api_key = "sk-xxxxxxxxxxx"
 
 def load_dataframe(csv_path):
     df = pd.read_csv(csv_path)
