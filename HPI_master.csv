@@ -1,0 +1,10 @@
+hpi_type,hpi_flavor,frequency,level,place_name,place_id,yr,period,index_nsa,index_sa
+traditional,purchase-only,monthly,USA or Census Division,East North Central Division,DV_ENC,1991,1,100.00,100.00
+traditional,purchase-only,monthly,USA or Census Division,East North Central Division,DV_ENC,1991,2,100.91,100.96
+traditional,purchase-only,monthly,USA or Census Division,East North Central Division,DV_ENC,1991,3,101.30,100.91
+traditional,purchase-only,monthly,USA or Census Division,East North Central Division,DV_ENC,1991,4,101.69,100.98
+traditional,purchase-only,monthly,USA or Census Division,East North Central Division,DV_ENC,1991,5,102.32,101.36
+traditional,purchase-only,monthly,USA or Census Division,East North Central Division,DV_ENC,1991,6,102.78,101.47
+traditional,purchase-only,monthly,USA or Census Division,East North Central Division,DV_ENC,1991,7,102.96,101.83
+traditional,purchase-only,monthly,USA or Census Division,East North Central Division,DV_ENC,1991,8,103.14,102.03
+traditional,purchase-only,monthly,USA or Census Division,East North Central Division,DV_ENC,1991,9,102.84,102.00
